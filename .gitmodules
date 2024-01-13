@@ -1,0 +1,6 @@
+[submodule "stock_planet_be"]
+	path = stock_planet_be
+	url = https://github.com/ndxbinh1922001/stock_planet_be.git
+[submodule "stock_planet_fe"]
+	path = stock_planet_fe
+	url = https://github.com/motoexx/stock_planet_fe.git
