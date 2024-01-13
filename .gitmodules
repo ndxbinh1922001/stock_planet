@@ -4,3 +4,6 @@
 [submodule "stock_planet_fe"]
 	path = stock_planet_fe
 	url = https://github.com/motoexx/stock_planet_fe.git
+[submodule "stock_planet_python_server"]
+	path = stock_planet_python_server
+	url = https://github.com/ndxbinh1922001/stock_planet_flask_server.git
